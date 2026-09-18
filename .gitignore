@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+venv/
+env/
+.venv/
+build/
+dist/
+*.egg-info/
+*.spec
+icon.iconset/
+.DS_Store
+settings.json
+shipments.json
+contractors.json
+icon.icns
