@@ -1,0 +1,58 @@
+[
+  {
+    "entity_type": "legal",
+    "entity_name": "юрик",
+    "inn": "111111",
+    "address": "кукуево",
+    "contact_person": "вася",
+    "contact_phone": "222222222",
+    "work_hours": "8-9",
+    "has_break": true,
+    "break_time": "8-9",
+    "call_before_30min": true,
+    "need_pass": false,
+    "comment": "коментарный коментарий"
+  },
+  {
+    "entity_type": "legal",
+    "entity_name": "11",
+    "inn": "1",
+    "address": "11",
+    "contact_person": "",
+    "contact_phone": "1",
+    "work_hours": "11",
+    "has_break": true,
+    "break_time": "",
+    "call_before_30min": true,
+    "need_pass": false,
+    "comment": "11111"
+  },
+  {
+    "entity_type": "legal",
+    "entity_name": "второй",
+    "inn": "йййй",
+    "address": "йцццццццццццццц",
+    "contact_person": "я",
+    "contact_phone": "2222",
+    "work_hours": "2222",
+    "has_break": true,
+    "break_time": "12",
+    "call_before_30min": true,
+    "need_pass": true,
+    "comment": "121212"
+  },
+  {
+    "entity_type": "legal",
+    "entity_name": "третий",
+    "inn": "ыц23332",
+    "address": "2323",
+    "contact_person": "2323",
+    "contact_phone": "2343",
+    "work_hours": "3434",
+    "has_break": true,
+    "break_time": "234234",
+    "call_before_30min": true,
+    "need_pass": true,
+    "comment": "234234"
+  }
+]
